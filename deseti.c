@@ -15,6 +15,7 @@ typedef struct _tree
   	position right;
 }tree;
 
+
 struct _lista;
 typedef struct _lista* position2;
 typedef struct _lista
